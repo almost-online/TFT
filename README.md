@@ -83,3 +83,4 @@ Rough Weight(Package containing) 	75 (g)
 ## ESP32
 
 [ESP32 pinout](https://www.studiopieters.nl/esp32-pinout/)
+[XPT2046 Touch with ESP32](https://www.hackster.io/nash-ali/using-the-ili9341-tft-xpt2046-touch-with-esp32-arduino-ac8eed)
